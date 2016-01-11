@@ -1,6 +1,6 @@
-# SSVM-julia
+# SSVMjulia
 
-Cutting-plane Structured SVM in Julia
+Cutting-plane Structured SVM in Julia, solving the Primal QP of the 1-slack formulation
 
 This implementation has the following advantages over SVM-struct-matlab:
 * Constraint caching (reuse full inference results)
